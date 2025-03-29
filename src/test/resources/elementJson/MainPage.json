@@ -1,0 +1,22 @@
+{
+  "navbarElektronik": {
+    "type": "xpath",
+    "locator": "//div[contains(@class,'navigationBar')]//*[contains(text(),'Elektronik')]"
+  },
+  "navbarContainerBilgisayarTablet": {
+    "type": "xpath",
+    "locator": "//div[contains(@class,'navigationContainer')]//*[contains(text(),'Bilgisayar/Tablet')]"
+  },
+  "navbarContainerTablet": {
+    "type": "xpath",
+    "locator": "//div[contains(@class,'navigationContainer')]//*[text()='Tablet']"
+  },
+  "acceptCookies": {
+    "type": "css",
+    "locator": "button#onetrust-accept-btn-handler"
+  },
+  "postCookieAd": {
+    "type": "xpath",
+    "locator": "//iframe[@title='3rd party ad content']"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "productDetailsPrice": {
+    "type": "xpath",
+    "locator": "//*[@data-test-id='default-price']"
+  },
+  "productDetailsPageAddToCart": {
+    "type": "xpath",
+    "locator": "//*[@data-test-id='addToCart']"
+  },
+  "goToCartFromProductDetails": {
+    "type": "xpath",
+    "locator": "//button[text()='Sepete git']"
+  }
+}

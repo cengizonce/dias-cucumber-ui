@@ -1,0 +1,6 @@
+{
+  "cartSelectedItemsPrice": {
+    "type": "id",
+    "locator": "basket_payedPrice"
+  }
+}

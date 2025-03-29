@@ -1,0 +1,31 @@
+2025-03-29 19:43:22.086 [TestNG-tests-2] INFO  hooks.Hooks - Starting the test
+2025-03-29 19:43:22.086 [TestNG-tests-1] INFO  hooks.Hooks - Starting the test
+2025-03-29 19:43:22.088 [TestNG-tests-2] INFO  utilities.drivers.WebDrivers - Setting up Firefox Driver...
+2025-03-29 19:43:22.088 [TestNG-tests-1] INFO  utilities.drivers.WebDrivers - Setting up Chrome Driver...
+2025-03-29 19:43:22.088 [TestNG-tests-2] INFO  utilities.drivers.FirefoxBrowser - The test will run in the local environment.
+2025-03-29 19:43:22.088 [TestNG-tests-1] INFO  utilities.drivers.ChromeBrowser - The test will run in the local environment.
+2025-03-29 19:43:23.424 [TestNG-tests-1] INFO  utilities.elementsReader.ElementResources - JSON files found: 4
+2025-03-29 19:43:23.516 [TestNG-tests-1] INFO  utilities.elementsReader.ElementResources - Loaded locators: 11
+2025-03-29 19:43:25.963 [TestNG-tests-2] INFO  stepMethods.BaseMethods - https://www.hepsiburada.com address has been accessed.
+2025-03-29 19:43:25.981 [TestNG-tests-2] INFO  stepMethods.BaseMethods - Waited until the page was loaded.
+2025-03-29 19:43:26.178 [TestNG-tests-1] INFO  stepMethods.BaseMethods - https://www.hepsiburada.com address has been accessed.
+2025-03-29 19:43:26.184 [TestNG-tests-1] INFO  stepMethods.BaseMethods - Waited until the page was loaded.
+2025-03-29 19:43:26.391 [TestNG-tests-1] INFO  stepMethods.BaseMethods - Waited until the page was loaded.
+2025-03-29 19:43:26.539 [TestNG-tests-1] INFO  stepMethods.BaseMethods - navbarElektronik was hovered over.
+2025-03-29 19:43:31.052 [TestNG-tests-1] INFO  stepMethods.BaseMethods - navbarContainerBilgisayarTablet was hovered over.
+2025-03-29 19:43:31.721 [TestNG-tests-1] INFO  stepMethods.BaseMethods - navbarContainerTablet was hovered over.
+2025-03-29 19:43:32.691 [TestNG-tests-1] INFO  stepMethods.BaseMethods - Waited until the page was loaded.
+2025-03-29 19:43:32.704 [TestNG-tests-1] INFO  stepMethods.MainPageMethods - Attempting to find the Apple option from the markalar filter.
+2025-03-29 19:43:34.710 [TestNG-tests-1] INFO  stepMethods.MainPageMethods - Filter option selected.
+2025-03-29 19:43:34.745 [TestNG-tests-1] INFO  stepMethods.BaseMethods - Waited until the page was loaded.
+2025-03-29 19:43:35.443 [TestNG-tests-1] INFO  stepMethods.MainPageMethods - Attempting to find the 13,2 inç option from the ekranboyutu filter.
+2025-03-29 19:43:35.671 [TestNG-tests-1] INFO  stepMethods.MainPageMethods - Filter option selected.
+2025-03-29 19:43:35.673 [TestNG-tests-1] INFO  stepMethods.BaseMethods - Waited until the page was loaded.
+2025-03-29 19:43:36.684 [TestNG-tests-1] INFO  stepMethods.MainPageMethods - Last max price: 104099.0
+2025-03-29 19:43:36.861 [TestNG-tests-1] INFO  stepMethods.BaseMethods - Switched to the new tab.
+2025-03-29 19:43:37.567 [TestNG-tests-2] INFO  hooks.Hooks - Test has completed
+2025-03-29 19:43:38.390 [TestNG-tests-1] INFO  stepMethods.SaveValueMethods - savedProductDetailPagePrice variable has been updated with the value: 104.099,00
+2025-03-29 19:43:42.723 [TestNG-tests-1] INFO  stepMethods.SaveValueMethods - savedBasketPagePrice variable has been updated with the value: 104.099,00
+2025-03-29 19:43:42.724 [TestNG-tests-1] INFO  stepMethods.SaveValueMethods - The value of the registered variable savedProductDetailPagePrice is: 104.099,00
+2025-03-29 19:43:42.724 [TestNG-tests-1] INFO  stepMethods.SaveValueMethods - The value of the registered variable savedBasketPagePrice is: 104.099,00
+2025-03-29 19:43:42.949 [TestNG-tests-1] INFO  hooks.Hooks - Test has completed

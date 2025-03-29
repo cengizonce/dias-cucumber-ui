@@ -1,0 +1,10 @@
+{
+  "productDetailsPageProductPrice": {
+    "type": "xpath",
+    "locator": "//*[contains(@data-test-id, 'final-price')]"
+  },
+  "productDetailsPageProductLinks": {
+    "type": "css",
+    "locator": "div[aria-label='Ürünler'] a[title][href]"
+  }
+}
